@@ -92,19 +92,6 @@ Made with ❤️ by Sahil Sonker
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ Tip:
-If you're submitting this as part of your interview or project repo, include:
-- A demo video or GIF
-- A few sample screenshots
-- A `docs/` folder with architecture or planning notes (optional)
-
-Would you like a **short 30s pitch** or **project walkthrough script** too (for interviews or portfolio)?
 
 
 
